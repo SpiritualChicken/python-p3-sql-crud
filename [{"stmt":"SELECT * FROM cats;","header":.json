@@ -1,0 +1,1 @@
+[{"stmt":"SELECT * FROM cats;","header":["id","name","age","breed"],"rows":[["1","Maru","3","Scottish Fold"],["2","Lil' Bub","5","American Shorthair"],["3","Lil' Bub","5","American Shorthair"],["4","Hannah","1","Tabby"]]}]
